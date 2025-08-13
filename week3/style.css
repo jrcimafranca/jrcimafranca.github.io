@@ -1,0 +1,30 @@
+body{
+	background-image: url(images/l6yi3za9nrtb1.jpg);
+	background-size: cover;
+}
+
+
+
+h1{
+	color: red;
+	font-size: 50px;
+	background-color: rgb(255, 255, 255);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 400px;
+	border-left: 2px dashed red;
+	border-right: 2px dashed blue;
+	padding-top: 50px;
+}
+
+p{
+	color: blue;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.myspan{
+  color: purple;
+	text-decoration: underline;
+}
