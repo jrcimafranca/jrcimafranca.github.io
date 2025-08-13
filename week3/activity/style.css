@@ -1,0 +1,113 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #16365d;
+}
+
+#insert{
+    color: white;
+    font-size: 30px;
+    text-align: end;
+    margin: 0px;;
+}
+
+p, li, ul{
+    color: white;
+}
+
+#tables{
+    font-style: italic;
+    color: red;
+}
+
+#footers{
+    font-weight: bold;
+    color: rgb(233, 0, 190);
+}
+
+#docBuild{
+    font-weight: bold;
+    color: red;
+    text-decoration: underline;
+}
+
+#media{
+    text-align: center;
+    color: red;
+}
+
+#whenCreate{
+    text-align: center;
+}
+
+#picHart{
+    color: yellow;
+    text-decoration: underline;
+}
+
+#selText{
+    font-weight: bold;
+    color: blue;
+}
+
+#quickStyle{
+    color: rgb(6, 248, 6);
+    font-weight: bold;
+    
+}
+
+#format{
+    background-color: black;
+    color: white;
+    padding-bottom: 20px;
+    width: 500px;
+    border-top: 1px solid red;
+    border-left: 1px solid red;
+}
+
+#youCan{
+    text-align: end;
+}
+
+#directly{
+    font-style: italic;
+    color: blue;
+}
+
+#theme{
+    font-weight: bold;
+    color: red;
+}
+
+#changeTo{
+    text-align: start;
+}
+
+#includeItems{
+    background-color: rgb(6, 248, 6);
+    color: black;
+    font-weight: bold;
+}
+
+#controls{
+    color: rgb(6, 248, 6);
+}
+
+#most{
+    background-color: black;
+    padding: 25px;
+    font-style: italic;
+}
+
+#galleries{
+    color: yellow;
+    text-align: center;
+    width: 300px;
+    border-bottom: 2px solid yellow;
+}
+
+#onThe{
+    background-color: red;
+}
